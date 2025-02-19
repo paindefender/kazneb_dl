@@ -7,3 +7,5 @@ python dl_book.py "https://kazneb.kz/ru/catalogue/view/1521873" -o best_book_in_
 ```
 
 now wait a bit because i was too lazy to add threading
+
+# next step OCR
