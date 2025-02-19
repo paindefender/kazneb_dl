@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 from urllib.parse import parse_qs
 import argparse
-import tqdm
+from tqdm import tqdm
 
 URL_TEMPLATE = "https://kazneb.kz/ru/bookView/view?brId={}&simple=true"
 
